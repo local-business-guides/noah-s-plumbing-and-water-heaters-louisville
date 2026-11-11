@@ -22,6 +22,9 @@
 - [Leak Repair Louisville for Homeowners](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/leak-repair-louisville/): Need leak repair in Louisville? Get help finding the source, limiting water damage, and choosing next steps. Call Noah's Plumbing & Water Heaters today.
 - [Pipe Repair Louisville: A Homeowner's Guide](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/pipe-repair-louisville/): Need pipe repair in Louisville? Learn what to note, what to ask, and how to prepare before work begins. Call Noah's Plumbing & Water Heaters today.
 
+## Newsroom
+- [Noah's Plumbing & Water Heaters Publishes Guide on Louisville Plumbers](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/2026-11-11-noah-s-plumbing-water-heaters-publishes-guide-on/): Noah's Plumbing & Water Heaters published a guide, YouTube video, podcast episode and SoundCloud audio on the topic this week. (2026-11-11)
+
 ## Pages
 - [Plumber in Louisville, Kentucky](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/): Get clear, practical plumbing help from Noah's Plumbing & Water Heaters in Louisville. Call +1502-236-9352.
 - [About Noah's Plumbing & Water Heaters](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/about/): About Noah's Plumbing & Water Heaters, Louisville.
@@ -29,4 +32,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/rss.xml)
 - [Main resource site](https://noahs-plumbing-louisville.localwebsites.chatgpt.site)

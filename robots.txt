@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/sitemap.xml
+Sitemap: https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news-sitemap.xml
