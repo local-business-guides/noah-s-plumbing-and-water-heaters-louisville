@@ -11,9 +11,9 @@
 - Plumber
 
 ## Guides
-- [Plumber Louisville Homeowners Can Call for Help](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumber-louisville/): Searching Plumber Louisville? Prepare for a plumbing visit in Louisville, Kentucky, with questions to ask. Call Noah's Plumbing & Water Heaters.
-- [Plumber in Louisville for Home Plumbing Help](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumber-in-louisville/): Need a plumber in Louisville? Get practical guidance for your home plumbing concern in Louisville, Kentucky, and call Noah's Plumbing & Water Heaters any time
 - [Plumbing Company Louisville Homeowners Can Call](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumbing-company-louisville/): Need a Plumbing Company Louisville homeowners can call? Get help sorting out plumbing concerns in Louisville, KY. Call Noah's Plumbing & Water Heaters today.
+- [Plumber in Louisville for Home Plumbing Help](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumber-in-louisville/): Need a plumber in Louisville? Get practical guidance for your home plumbing concern in Louisville, Kentucky, and call Noah's Plumbing & Water Heaters any time
+- [Plumber Louisville Homeowners Can Call for Help](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumber-louisville/): Searching Plumber Louisville? Prepare for a plumbing visit in Louisville, Kentucky, with questions to ask. Call Noah's Plumbing & Water Heaters.
 - [Plumbing Contractor Louisville for Home Projects](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumbing-contractor-louisville/): Planning plumbing work in Louisville? Contact a Plumbing Contractor Louisville homeowners can talk with about the job. Call Noah's Plumbing & Water Heaters to
 - [Plumbing Repair Louisville for Homeowners](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/plumbing-repair-louisville/): Need Plumbing Repair Louisville? Talk through the problem and next steps with a plumber serving Louisville. Call Noah's Plumbing & Water Heaters today.
 - [Emergency Plumbing Louisville When Problems Can't Wait](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/emergency-plumbing-louisville/): Emergency Plumbing Louisville help for a leak or backup, with a plumber open around the clock in Louisville. Call Noah's Plumbing & Water Heaters now.
@@ -23,6 +23,7 @@
 - [Pipe Repair Louisville: A Homeowner's Guide](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/pipe-repair-louisville/): Need pipe repair in Louisville? Learn what to note, what to ask, and how to prepare before work begins. Call Noah's Plumbing & Water Heaters today.
 
 ## Newsroom
+- [Louisville Plumbing Business Releases Guide and Related Media](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/2026-11-13-louisville-plumbing-business-releases-guide-and/): Noah's Plumbing & Water Heaters published a Louisville plumbing guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-13)
 - [Noah's Plumbing Shares Louisville Guide in Four Formats](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/2026-11-11-noah-s-plumbing-shares-louisville-guide-in-four/): Noah's Plumbing & Water Heaters published a guide for Louisville readers, with related video, podcast and audio versions. (2026-11-11)
 - [Noah's Plumbing & Water Heaters Publishes Guide on Louisville Plumbers](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/2026-11-11-noah-s-plumbing-water-heaters-publishes-guide-on/): Noah's Plumbing & Water Heaters published a guide, YouTube video, podcast episode and SoundCloud audio on the topic this week. (2026-11-11)
 
@@ -34,4 +35,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/noah-s-plumbing-and-water-heaters-louisville/news/rss.xml)
-- [Main resource site](https://noahs-plumbing-louisville.localwebsites.chatgpt.site)
+- [Main resource site](https://noahs-plumbing-louisville.localwebsites.chatgpt.site/news/2026-11-12-noah-s-plumbing-water-heaters-publishes-new-guide-to/)
